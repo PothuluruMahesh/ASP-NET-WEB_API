@@ -1,0 +1,12 @@
+F:\JAVA\C#\ASP_NetCore\EmployeeService\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.dll.config
+F:\JAVA\C#\ASP_NetCore\EmployeeService\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.dll
+F:\JAVA\C#\ASP_NetCore\EmployeeService\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.pdb
+F:\JAVA\C#\ASP_NetCore\EmployeeService\EmployeeDataAccess\bin\Debug\EntityFramework.dll
+F:\JAVA\C#\ASP_NetCore\EmployeeService\EmployeeDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+F:\JAVA\C#\ASP_NetCore\EmployeeService\EmployeeDataAccess\bin\Debug\EntityFramework.xml
+F:\JAVA\C#\ASP_NetCore\EmployeeService\EmployeeDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+F:\JAVA\C#\ASP_NetCore\EmployeeService\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.csprojAssemblyReference.cache
+F:\JAVA\C#\ASP_NetCore\EmployeeService\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.csproj.CoreCompileInputs.cache
+F:\JAVA\C#\ASP_NetCore\EmployeeService\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.csproj.CopyComplete
+F:\JAVA\C#\ASP_NetCore\EmployeeService\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.dll
+F:\JAVA\C#\ASP_NetCore\EmployeeService\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.pdb
